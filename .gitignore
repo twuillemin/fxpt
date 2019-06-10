@@ -1,0 +1,24 @@
+# Individual files
+*.jar
+*.class
+*.zip
+
+# Gradle temp directories
+.gradle
+/gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven temp directories
+/target/
+
+# Temp build directories
+**/build/
+**/classes/
+**/out/
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
